@@ -2,7 +2,7 @@
 
 ### Compiling Csharp in-memory and Execute to bypass AVs
 
-#### Note: Code created by me in Jun 2017 and Published in 2023 ;D but still can help you to bypass some AVs ;)
+#### Note: Code created by me in [Jun 2017] and Published in [Mar 2023] ;D but still can help you to bypass some AVs ;)
 
 #### Note: ALL AVs in 2017 Bypassed by this simple code but for now i am not sure for this. 
 
